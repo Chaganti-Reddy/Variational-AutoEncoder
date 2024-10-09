@@ -1,4 +1,4 @@
-# Variational Autoencoder
+# Variational Autoencoder 
 
 ![](Images/main_gif.gif)
 
