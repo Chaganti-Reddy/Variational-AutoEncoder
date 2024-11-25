@@ -1,7 +1,7 @@
 # Variational Autoencoder 
 
 ![](Images/main_gif.gif)
-  
+   
 ### Autoencoder            
    
 - neural network with unsupervised machine-learning algorithm apply back-prop to set target value to the input
