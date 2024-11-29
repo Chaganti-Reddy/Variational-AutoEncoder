@@ -3,7 +3,7 @@
 ![](Images/main_gif.gif)
    
 ### Autoencoder            
-    
+     
 - neural network with unsupervised machine-learning algorithm apply back-prop to set target value to the input
 - auto-encoder prefers over PCA because it can learn non-linear transformations with non-linear activation functions. more efficient to learn several layer with auto-encoder then one huge transformation with PCA.
 
