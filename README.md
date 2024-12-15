@@ -1,6 +1,6 @@
 # Variational Autoencoder 
 
-![](Images/main_gif.gif)
+![](Images/main_gif.gif) 
    
 ### Autoencoder            
      
